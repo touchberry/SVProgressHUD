@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'SVProgressHUD13'
-  s.version  = '2.2.8'
+  s.version  = '2.2.10'
   s.ios.deployment_target = '8.3'
   s.tvos.deployment_target = '9.0'
   s.license  =  { :type => 'MIT', :file => 'LICENSE' }
